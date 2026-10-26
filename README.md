@@ -31,7 +31,7 @@ I'm a **software architect, independent app developer and PhD researcher**. I bu
 <h3>DungeonFlowRL · Dungeon of Truth</h3>
 <p>A research framework and playable Unity testbed connecting procedural dungeon generation, player modelling and reinforcement learning to study adaptive gameplay.</p>
 <p><strong>PhD research · Python · PyTorch · Unity</strong></p>
-<p><a href="https://manuelrinaldi.com/research">Research &amp; publications →</a> · <a href="https://github.com/mrinaldi2/proceduralgeneration3dmazes">3D maze generation</a></p>
+<p><a href="https://manuelrinaldi.com/research">Research &amp; publications →</a></p>
 </td>
 </tr>
 <tr>
@@ -60,19 +60,18 @@ I'm a **software architect, independent app developer and PhD researcher**. I bu
 | **Rosario 54** | A guided 54-day Rosary novena, one prayer at a time. | [App Store](https://apps.apple.com/us/app/rosario-54/id6801182922) |
 | **Mercy Chaplet** | A guided Divine Mercy Chaplet. | [App Store](https://apps.apple.com/us/app/mercy-chaplet/id6803369126) |
 | **Medjugorje: Peace Chaplet** | A simple prayer companion with tap, voice and hands-free modes. | [App Store](https://apps.apple.com/us/app/medjugorje-peace-chaplet/id6804197688) |
-| **Procedural 3D Mazes** | Maze generation and visualisation in Unity. | [Source code](https://github.com/mrinaldi2/proceduralgeneration3dmazes) |
 | **Computer Vision with PyTorch** | Flower classification using transfer learning. | [Source code](https://github.com/mrinaldi2/computer_vision_pytorch) |
 
 ### Technologies I work with
 
 **Machine learning & research**  
-Python · PyTorch · Reinforcement learning · Procedural generation · Player modelling
+<img src="assets/skills-ml.svg" alt="Python and PyTorch">
 
 **Backend & infrastructure**  
-Java · Spring Boot · Distributed systems · Docker · Kubernetes · PostgreSQL · OpenTelemetry
+<img src="assets/skills-backend.svg" alt="Java, Spring Boot, Docker, Kubernetes and PostgreSQL">
 
 **Apps & interactive experiences**  
-Swift · SwiftUI · Rust · Tauri · React · TypeScript · C# · Unity
+<img src="assets/skills-apps.svg" alt="Swift, Rust, Tauri, React, TypeScript, C sharp and Unity">
 
 ### Research & writing
 
