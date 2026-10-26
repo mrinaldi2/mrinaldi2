@@ -36,7 +36,7 @@ I'm a **software architect, independent app developer and PhD researcher**. I bu
 </tr>
 <tr>
 <td width="50%" valign="top">
-<p align="center"><a href="https://apps.apple.com/us/app/kronos-calisthenics/id6757181327"><img src="assets/kronos.jpg" alt="Kronos calisthenics app showing skill progression ladders" height="300"></a></p>
+<p align="center"><a href="https://apps.apple.com/us/app/kronos-calisthenics/id6757181327"><img src="assets/kronos.png" alt="Kronos: Every skill is a ladder — skill progression on iPad" height="300"></a></p>
 <h3>Kronos: Calisthenics</h3>
 <p>Train towards skills, one progression at a time. Build sessions around your current level and advance by meeting clear standards.</p>
 <p><strong>Native iOS · Apple Watch · Skill progression</strong></p>
